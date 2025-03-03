@@ -1,0 +1,11 @@
+#list of the external libraries that need to be installed
+
+fastapi
+uvicorn
+scikit-learn
+numpy
+pandas
+joblib
+seaborn
+matplotlib
+
